@@ -59,3 +59,6 @@ let text = "The rain in Spain falls mainly";
 let pattern = /rain/;
 console.log(pattern.test(text)); // true
 console.log(text.match(pattern)); // ['rain']
+console.log(text.match(pattern)); // ['rain']
+console.log(text.match(pattern)); // ['rain']
+print(hello)
